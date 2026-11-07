@@ -2,34 +2,24 @@
 
 ## Introduction
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
+Using the IDE to complete this assignment was confusing at first, but I started understanding how the program works after using it for taking notes. Writing a code wasn't hard, however, knowing the correct sequence of code was tricky. The test ran without errors on the IDE, but once put into testing I ran into several problems. With some tweaking of the codes and looking at all the notes, I was able to figure out the correct code. The code spell checker, refactorings, and the autocomplete features may seem simple, but help make coding a little simpler for a beginner. These features take some of the thought out of typing and to be able to focus on the code needing typed.
 
-TODO: Replace with your introduction here.
+## Feature 1 – Code Spell Checker
 
-## Feature 1 – TODO: Replace with name of your Feature1
+The first feature I chose was Code Spell Checker. Spell check is very important to me because I am quite bad at spelling on my own, so having one embedded into the program makes thinking about spelling easier. I spelled a few simple words wrong from typing too fast, the program caught the misspelling, gave the words a squiggle, and I was able to fix the words before getting too far into coding.
 
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
+## Feature 2 – Refactorings
 
-TODO: Replace with your Feature 1 paragraph here.
+The second feature I chose was refactorings. There were times I typed a code wrong or put it in the wrong place and this feature allows for easier deletion or moving of code. I can highlight a phrase of code, select the light-bulb, then choosing extract method or extract variable to fix my mistake. I am human; I make plenty of mistakes, so this feature helps fixing them a little quicker and cleaner.
 
-## Feature 2 – TODO: Replace with name of your Feature2
+## Feature 3 – Autocomplete
 
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
-
-TODO: Replace with your Feature 2 paragraph here.
-
-## Feature 3 – TODO: Replace with name of your Feature3
-
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
-
-TODO: Replace with your Feature 3 paragraph here.
+The third feature I chose was autocomplete. This allows something you are typing to be filled quicker without having to type everything multiple times. This is helpful when you have many things with underscores to type or many equations to type. I did not use this feature often during this assignment, but I have used it on other assignments before. Again, this feature just makes the assignment go a little quicker, as long as you put in the right autocomplete code.
 
 ## Conclusion
 
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
-
-TODO: Replace with your conclusion here.
+I have learned how important it is to go slow, check my work, and how simple code is better. The IDE features will continue to help me get my work done correctly and efficiently. Everybody uses spellcheck in their day to day life, so spellcheck isn't just used for coding. I feel like I know how to code at least somewhat better than I did before. The IDE features make it easier to get through coding whether I am confident in my codes or not.
 
 ## References
 
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
+Microsoft. (2021, November 3). Documentation for Visual Studio Code. Visual Studio Code. https://code.visualstudio.com/docs 
